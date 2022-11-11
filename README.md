@@ -1,2 +1,2 @@
-# BinHexOct_Converter
-Decimal to binary, octal an hexa-decimal converter!
+# Binary, Octal, Hexa-Decimal Converter
+Decimal to binary, octal an hexadecimal converter.
