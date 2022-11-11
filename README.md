@@ -1,2 +1,2 @@
 # Binary, Octal, Hexa-Decimal Converter
-Decimal to binary, octal an hexadecimal converter.
+Conversion of Decimal to Binary, Octal and Hexadecimal.
